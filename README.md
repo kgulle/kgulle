@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="" alt="" /> </p>
 
-- 🔭 I’m currently working on [dpu.edu.tr](https://www.dpu.edu.tr)
+- 🔭 I’m currently working on [dpu.edu.tr](https://bidb.dpu.edu.tr)
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/kgulle](https://www.github.com/kgulle)
 
@@ -17,5 +17,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/gulle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kgulle" height="30" width="30" /></a>
-<a href="https://instagram.com/gulle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kgulle" height="30" width="30" /></a>
+<a href="https://instagram.com/kenangll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kgulle" height="30" width="30" /></a>
 </p>
